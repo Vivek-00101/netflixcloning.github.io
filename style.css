@@ -71,16 +71,16 @@ img {
 	width: 170px;
 	position: absolute;
 	top: 50%;
-	left: 13%;
-	transform: translate(-50%, -50%);
-	margin-left: 15px;
+	left: 10%;
+	transform: translate(-34%, -23%);
+	margin-left: 34px;
 }
 
 .header-top a {
 	position: absolute;
 	top: 50%;
-	right: 2%;
-	transform: translate(-50%, -50%);
+	right: 5%;
+	transform: translate(20%, -50%);
 }
 
 .showcase-content {
