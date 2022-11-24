@@ -71,15 +71,15 @@ img {
 	width: 170px;
 	position: absolute;
 	top: 50%;
-	left: 10%;
+	left: 13%;
 	transform: translate(-50%, -50%);
-	margin-left: 10px;
+	margin-left: 15px;
 }
 
 .header-top a {
 	position: absolute;
 	top: 50%;
-	right: 5%;
+	right: 2%;
 	transform: translate(-50%, -50%);
 }
 
